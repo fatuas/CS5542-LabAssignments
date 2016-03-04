@@ -1,0 +1,264 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+18 items
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes\SocketClient$.class
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes\SocketClient.class
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes\TwitterStreaming$$anonfun$1.class
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes\TwitterStreaming$$anonfun$2.class
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes\TwitterStreaming$$anonfun$3$$anonfun$apply$1.class
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes\TwitterStreaming$$anonfun$3.class
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes\TwitterStreaming$$anonfun$4.class
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes\TwitterStreaming$$anonfun$5.class
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes\TwitterStreaming$$anonfun$6.class
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes\TwitterStreaming$$anonfun$7.class
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes\TwitterStreaming$$anonfun$8.class
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes\TwitterStreaming$$anonfun$9.class
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes\TwitterStreaming$$anonfun$main$1$$anonfun$apply$2.class
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes\TwitterStreaming$$anonfun$main$1.class
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes\TwitterStreaming$$anonfun$main$2$$anonfun$apply$3.class
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes\TwitterStreaming$$anonfun$main$2.class
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes\TwitterStreaming$.class
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes\TwitterStreaming.class
+binary dependencies:
+8 items
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> C:\Program Files\Java\jdk1.8.0_60\jre\lib\rt.jar
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> C:\Users\sindhu\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> C:\Program Files\Java\jdk1.8.0_60\jre\lib\rt.jar
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> C:\Users\sindhu\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-1.6.0.jar
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> C:\Users\sindhu\.ivy2\cache\org.apache.spark\spark-streaming-twitter_2.11\jars\spark-streaming-twitter_2.11-1.6.0.jar
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> C:\Users\sindhu\.ivy2\cache\org.apache.spark\spark-streaming_2.11\jars\spark-streaming_2.11-1.6.0.jar
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> C:\Users\sindhu\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> C:\Users\sindhu\.ivy2\cache\org.twitter4j\twitter4j-core\jars\twitter4j-core-4.0.4.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+18 items
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> SocketClient
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> SocketClient$
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> TwitterStreaming
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> TwitterStreaming$
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> TwitterStreaming$$anonfun$1
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> TwitterStreaming$$anonfun$2
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> TwitterStreaming$$anonfun$3
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> TwitterStreaming$$anonfun$3$$anonfun$apply$1
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> TwitterStreaming$$anonfun$4
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> TwitterStreaming$$anonfun$5
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> TwitterStreaming$$anonfun$6
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> TwitterStreaming$$anonfun$7
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> TwitterStreaming$$anonfun$8
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> TwitterStreaming$$anonfun$9
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> TwitterStreaming$$anonfun$main$1
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> TwitterStreaming$$anonfun$main$1$$anonfun$apply$2
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> TwitterStreaming$$anonfun$main$2
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> TwitterStreaming$$anonfun$main$2$$anonfun$apply$3
+used names:
+118 items
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> <init>
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> AnyRef
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> Array
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> Byte
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> IOException
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> InetAddress
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> Predef
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> PrintStream
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> Socket
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> SocketClient
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> String
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> Unit
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> address
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> address$lzy
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> apply
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> close
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> e
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> findIpAdd
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> flush
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> getByAddress
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> getHostAddress
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> getLocalHost
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> getOutputStream
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> ia
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> io
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> java
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> localIpAddress
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> localhost
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> net
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> out
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> print
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> printStackTrace
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> scala
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> socket
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> string
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> toByte
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> +
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> <init>
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> AnyRef
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> Array
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> ClassTag
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> DStream
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> Int
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> None
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> Ordering
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> Predef
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> RDD
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> Seconds
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> SocketClient
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> SparkConf
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> StreamingContext
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> String
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> System
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> TwitterStreaming
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> TwitterUtils
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> Unit
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> _1
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> _2
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> apache
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> apply
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> augmentString
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> awaitTermination
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> count
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> createStream
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> dstream
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> filter
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> filters
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> flatMap
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> foreach
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> foreachRDD
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> format
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> getText
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> hashTags
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> java
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> lang
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> map
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> materializeClassTag
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> math
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> ne
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> org
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> package
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> qual$1
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> qual$2
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> rdd
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> rddToOrderedRDDFunctions
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> reduceByKeyAndWindow
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> refArrayOps
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> s
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> scala
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> sendCommandToAndroid
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> set
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> setAppName
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> setMaster
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> setProperty
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> sortByKey
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> spark
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> sparkConf
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> split
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> ssc
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> start
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> startsWith
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> status
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> stream
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> streaming
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> tag
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> take
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> toPairDStreamFunctions
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> topCounts10
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> topCounts30
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> topList
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> topic
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> transform
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> twitter
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> wrapRefArray
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> x$10
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> x$11
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> x$12
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> x$13
+product stamps:
+18 items
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes\SocketClient$.class -> lastModified(1457047687331)
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes\SocketClient.class -> lastModified(1457047687186)
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes\TwitterStreaming$$anonfun$1.class -> lastModified(1457047687384)
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes\TwitterStreaming$$anonfun$2.class -> lastModified(1457047687394)
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes\TwitterStreaming$$anonfun$3$$anonfun$apply$1.class -> lastModified(1457047687420)
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes\TwitterStreaming$$anonfun$3.class -> lastModified(1457047687408)
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes\TwitterStreaming$$anonfun$4.class -> lastModified(1457047687429)
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes\TwitterStreaming$$anonfun$5.class -> lastModified(1457047687439)
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes\TwitterStreaming$$anonfun$6.class -> lastModified(1457047687448)
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes\TwitterStreaming$$anonfun$7.class -> lastModified(1457047687455)
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes\TwitterStreaming$$anonfun$8.class -> lastModified(1457047687463)
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes\TwitterStreaming$$anonfun$9.class -> lastModified(1457047687474)
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes\TwitterStreaming$$anonfun$main$1$$anonfun$apply$2.class -> lastModified(1457047687498)
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes\TwitterStreaming$$anonfun$main$1.class -> lastModified(1457047687488)
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes\TwitterStreaming$$anonfun$main$2$$anonfun$apply$3.class -> lastModified(1457047687531)
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes\TwitterStreaming$$anonfun$main$2.class -> lastModified(1457047687515)
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes\TwitterStreaming$.class -> lastModified(1457047687367)
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\target\scala-2.11\classes\TwitterStreaming.class -> lastModified(1457047687338)
+source stamps:
+2 items
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> hash(5731189438835c1968c2396b3eac52eb2da6caad)
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> hash(1621213367582920a7bb54508d5e8a99b6806403)
+binary stamps:
+6 items
+C:\Program Files\Java\jdk1.8.0_60\jre\lib\rt.jar -> lastModified(1442692998482)
+C:\Users\sindhu\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-1.6.0.jar -> lastModified(1450755559000)
+C:\Users\sindhu\.ivy2\cache\org.apache.spark\spark-streaming-twitter_2.11\jars\spark-streaming-twitter_2.11-1.6.0.jar -> lastModified(1450755574000)
+C:\Users\sindhu\.ivy2\cache\org.apache.spark\spark-streaming_2.11\jars\spark-streaming_2.11-1.6.0.jar -> lastModified(1450755207000)
+C:\Users\sindhu\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> lastModified(1438617791000)
+C:\Users\sindhu\.ivy2\cache\org.twitter4j\twitter4j-core\jars\twitter4j-core-4.0.4.jar -> lastModified(1435055216000)
+class names:
+6 items
+C:\Program Files\Java\jdk1.8.0_60\jre\lib\rt.jar -> java.lang.Object
+C:\Users\sindhu\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-1.6.0.jar -> org.apache.spark.rdd.RDD
+C:\Users\sindhu\.ivy2\cache\org.apache.spark\spark-streaming-twitter_2.11\jars\spark-streaming-twitter_2.11-1.6.0.jar -> org.apache.spark.streaming.twitter.TwitterUtils$
+C:\Users\sindhu\.ivy2\cache\org.apache.spark\spark-streaming_2.11\jars\spark-streaming_2.11-1.6.0.jar -> org.apache.spark.streaming.dstream.ReceiverInputDStream
+C:\Users\sindhu\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> scala.reflect.ClassTag
+C:\Users\sindhu\.ivy2\cache\org.twitter4j\twitter4j-core\jars\twitter4j-core-4.0.4.jar -> twitter4j.Status
+internal apis:
+2 items
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHD2zGDPAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cOtb0Gx0AAZub3RpZnlzcQB+AAyrylmLdAAMU29ja2V0Q2xpZW50c3EAfgAMjaJcM3QABHdhaXRzcQB+AAxOpv0bdAANJGFzSW5zdGFuY2VPZnNxAH4ADI0ARw10AAZlcXVhbHNzcQB+AAzjIT1udAAMYXNJbnN0YW5jZU9mc3EAfgAMcQ56vHQADHN5bmNocm9uaXplZHNxAH4ADPGQvwV0AAlmaW5kSXBBZGRzcQB+AAwvxp38dAANJGlzSW5zdGFuY2VPZnNxAH4ADM7QQI10AAlub3RpZnlBbGxzcQB+AAwy0f2ydAAMaXNJbnN0YW5jZU9mc3EAfgAMCRkbSHQAAj09c3EAfgAMKPh+fHQABWNsb25lc3EAfgAMAsKvD3QACHRvU3RyaW5nc3EAfgAMw2pAlHQAAiE9c3EAfgAMnKr1anQACGdldENsYXNzc3EAfgAM94ZQ23QAAm5lc3EAfgAMGjzwcHQAFHNlbmRDb21tYW5kVG9BbmRyb2lkc3EAfgAM/VPE6nQAAmVxc3EAfgAMZl5xaHQAAiMjc3EAfgAMnSMDKHQACGZpbmFsaXplc3EAfgAMaY+m0HQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AQ3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgARdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AW3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AWgBwc3EAfgBfc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AENMAAlpbmhlcml0ZWRxAH4AQ0wAB3BhcmVudHNxAH4AQ3hxAH4AY3NxAH4AWgBwc3EAfgBfdXEAfgA+AAAAAHNxAH4AWgBwc3EAfgBfdXEAfgA+AAAAAHNxAH4AWgBwc3EAfgBfdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBidAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBic3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgB/dAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCAc3EAfgBzdAADQW55c3EAfgB3c3EAfgB6dXEAfgB9AAAAAnNxAH4Af3QABXNjYWxhcQB+AIZ1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUz7PHvN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdACIRDpcVU1LQ1xCaWdEYXRhLUxlZVxCaWdEYXRhQXBwcy1TcHJpbmcyMDE2LUxhYkFzc2lnbm1lbnRzLW1hc3RlclxMYWIgQXNzaWdubWVudCA2XHNyY1xRMVxUd2l0dGVyU3BhcmtTdHJlYW1pbmdcdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFFcxGJQ4g1wZaMI5az6sUustpsqt
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHD+eia2AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cAk64iN0AAZub3RpZnlzcQB+AAwKhh9adAAEd2FpdHNxAH4ADK2blAB0AA0kYXNJbnN0YW5jZU9mc3EAfgAMsBV893QABmVxdWFsc3NxAH4ADHlwrS10AAxhc0luc3RhbmNlT2ZzcQB+AAz88DbNdAAMc3luY2hyb25pemVkc3EAfgAMjV6cyXQADSRpc0luc3RhbmNlT2ZzcQB+AAzmnrnndAAEbWFpbnNxAH4ADFadKR10AAlub3RpZnlBbGxzcQB+AAyp8jg7dAAMaXNJbnN0YW5jZU9mc3EAfgAMeyj/wHQAAj09c3EAfgAMFj2Kk3QAEFR3aXR0ZXJTdHJlYW1pbmdzcQB+AAwHpVlTdAAFY2xvbmVzcQB+AAxGof0fdAAIdG9TdHJpbmdzcQB+AAzqQJWqdAACIT1zcQB+AAzTckgIdAAIZ2V0Q2xhc3NzcQB+AAyuknOVdAACbmVzcQB+AAxUNEfUdAACZXFzcQB+AAwKo1MKdAACIyNzcQB+AAyNCNOfdAAIZmluYWxpemVzcQB+AAyKaufWdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+ACV1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBZeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBYAHBzcQB+AF1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBhc3EAfgBYAHBzcQB+AF11cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB11cQB+AFAAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYHQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH51cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBreHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBTdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgByWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBgc3EAfgBxdAAFQXJyYXlxAH4Ad3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBxdAAGU3RyaW5nc3EAfgB1c3EAfgB4dXEAfgB7AAAAA3NxAH4AfXQABGphdmFzcQB+AH10AARsYW5ncQB+AIJzcQB+AFgAcHNxAH4AXXVxAH4APAAAAABzcQB+AFgAcHNxAH4AXXVxAH4AlgAAAAJzcQB+AHF0AAZPYmplY3RxAH4AmnNxAH4AcXQAA0FueXEAfgB3dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVM+zx7zdXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAiEQ6XFVNS0NcQmlnRGF0YS1MZWVcQmlnRGF0YUFwcHMtU3ByaW5nMjAxNi1MYWJBc3NpZ25tZW50cy1tYXN0ZXJcTGFiIEFzc2lnbm1lbnQgNlxzcmNcUTFcVHdpdHRlclNwYXJrU3RyZWFtaW5nXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEvdXIAAltCrPMX+AYIVOACAAB4cAAAABQWISEzZ1gpIKe7VFCNXoqZtoBkAw==
+external apis:
+0 items
+source infos:
+2 items
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\SocketClient.scala -> 
+AAAAAAAAAAA=
+D:\UMKC\BigData-Lee\BigDataApps-Spring2016-LabAssignments-master\Lab Assignment 6\src\Q1\TwitterSparkStreaming\src\main\scala\TwitterStreaming.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABUz7PHvN1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAiEQ6XFVNS0NcQmlnRGF0YS1MZWVcQmlnRGF0YUFwcHMtU3ByaW5nMjAxNi1MYWJBc3NpZ25tZW50cy1tYXN0ZXJcTGFiIEFzc2lnbm1lbnQgNlxzcmNcUTFcVHdpdHRlclNwYXJrU3RyZWFtaW5nXHRhcmdldFxzY2FsYS0yLjExXGNsYXNzZXN0AAEv
