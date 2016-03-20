@@ -1,0 +1,124 @@
+[
+    {
+        "outputFile": "G:\\Dropbox\\2016 Spring\\CS5542-BigDataAnalytics\\Tutorial\\Tutorial 8\\Android Controller1\\app\\build\\intermediates\\res\\merged\\debug\\values\\values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "G:\\Dropbox\\2016 Spring\\CS5542-BigDataAnalytics\\Tutorial\\Tutorial 8\\Android Controller1\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 113,
+                    "endColumn": 55,
+                    "endOffset": 164
+                },
+                "from": {
+                    "file": "G:\\Dropbox\\2016 Spring\\CS5542-BigDataAnalytics\\Tutorial\\Tutorial 8\\Android Controller1\\app\\src\\main\\res\\values\\dimens.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 169,
+                    "endColumn": 52,
+                    "endOffset": 217
+                },
+                "from": {
+                    "file": "G:\\Dropbox\\2016 Spring\\CS5542-BigDataAnalytics\\Tutorial\\Tutorial 8\\Android Controller1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 222,
+                    "endColumn": 55,
+                    "endOffset": 273
+                },
+                "from": {
+                    "file": "G:\\Dropbox\\2016 Spring\\CS5542-BigDataAnalytics\\Tutorial\\Tutorial 8\\Android Controller1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 278,
+                    "endColumn": 52,
+                    "endOffset": 326
+                },
+                "from": {
+                    "file": "G:\\Dropbox\\2016 Spring\\CS5542-BigDataAnalytics\\Tutorial\\Tutorial 8\\Android Controller1\\app\\src\\main\\res\\values\\strings.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 331,
+                    "endColumn": 97,
+                    "endOffset": 424
+                },
+                "from": {
+                    "file": "G:\\Dropbox\\2016 Spring\\CS5542-BigDataAnalytics\\Tutorial\\Tutorial 8\\Android Controller1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 288,
+                        "endColumn": 97,
+                        "endOffset": 381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 429,
+                    "endColumn": 56,
+                    "endOffset": 481
+                },
+                "from": {
+                    "file": "G:\\Dropbox\\2016 Spring\\CS5542-BigDataAnalytics\\Tutorial\\Tutorial 8\\Android Controller1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 224,
+                        "endColumn": 62,
+                        "endOffset": 282
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 486,
+                    "endColumn": 58,
+                    "endOffset": 540
+                },
+                "from": {
+                    "file": "G:\\Dropbox\\2016 Spring\\CS5542-BigDataAnalytics\\Tutorial\\Tutorial 8\\Android Controller1\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 387,
+                        "endColumn": 58,
+                        "endOffset": 441
+                    }
+                }
+            }
+        ]
+    }
+]
