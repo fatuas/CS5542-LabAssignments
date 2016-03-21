@@ -1,0 +1,473 @@
+format version: 5
+output mode:
+1 items
+0 -> single
+output directories:
+1 items
+output dir -> D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes
+compile options:
+0 items
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.7
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> true
+products:
+32 items
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\iOSConnector$.class
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\iOSConnector.class
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\MainStreaming$$anonfun$1.class
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\MainStreaming$$anonfun$main$1.class
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\MainStreaming$.class
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\MainStreaming.class
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$1.class
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$10.class
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$11.class
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$12.class
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$13.class
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$14.class
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$15.class
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$16.class
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$17.class
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$2.class
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$3.class
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$4.class
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$5.class
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$6.class
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$7.class
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$8.class
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$9.class
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$computeRmse$1.class
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$computeRmse$2.class
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$loadRatings$1.class
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$recommend$1$$anonfun$apply$mcVI$sp$1$$anonfun$apply$mcVD$sp$1.class
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$recommend$1$$anonfun$apply$mcVI$sp$1.class
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$recommend$1.class
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$recommend$2.class
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$.class
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation.class
+binary dependencies:
+13 items
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> C:\Program Files\Java\jdk1.8.0_60\jre\lib\rt.jar
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> C:\Users\sindhu\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> C:\Program Files\Java\jdk1.8.0_60\jre\lib\rt.jar
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> C:\Users\sindhu\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-1.6.0.jar
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> C:\Users\sindhu\.ivy2\cache\org.apache.spark\spark-streaming_2.11\jars\spark-streaming_2.11-1.6.0.jar
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> C:\Users\sindhu\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> C:\Program Files\Java\jdk1.8.0_60\jre\lib\rt.jar
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> C:\Users\sindhu\.ivy2\cache\com.fasterxml.jackson.core\jackson-databind\bundles\jackson-databind-2.4.4.jar
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> C:\Users\sindhu\.ivy2\cache\com.typesafe.play\play-json_2.10\jars\play-json_2.10-2.2.1.jar
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> C:\Users\sindhu\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-1.6.0.jar
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> C:\Users\sindhu\.ivy2\cache\org.apache.spark\spark-mllib_2.11\jars\spark-mllib_2.11-1.6.0.jar
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> C:\Users\sindhu\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> C:\Users\sindhu\.ivy2\cache\org.scalaj\scalaj-http_2.11\jars\scalaj-http_2.11-1.1.5.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+1 items
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+32 items
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> iOSConnector
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> iOSConnector$
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> MainStreaming
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> MainStreaming$
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> MainStreaming$$anonfun$1
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> MainStreaming$$anonfun$main$1
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Recommendation
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Recommendation$
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Recommendation$$anonfun$1
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Recommendation$$anonfun$10
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Recommendation$$anonfun$11
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Recommendation$$anonfun$12
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Recommendation$$anonfun$13
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Recommendation$$anonfun$14
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Recommendation$$anonfun$15
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Recommendation$$anonfun$16
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Recommendation$$anonfun$17
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Recommendation$$anonfun$2
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Recommendation$$anonfun$3
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Recommendation$$anonfun$4
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Recommendation$$anonfun$5
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Recommendation$$anonfun$6
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Recommendation$$anonfun$7
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Recommendation$$anonfun$8
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Recommendation$$anonfun$9
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Recommendation$$anonfun$computeRmse$1
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Recommendation$$anonfun$computeRmse$2
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Recommendation$$anonfun$loadRatings$1
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Recommendation$$anonfun$recommend$1
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Recommendation$$anonfun$recommend$1$$anonfun$apply$mcVI$sp$1
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Recommendation$$anonfun$recommend$1$$anonfun$apply$mcVI$sp$1$$anonfun$apply$mcVD$sp$1
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Recommendation$$anonfun$recommend$2
+used names:
+271 items
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> <init>
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> AnyRef
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> Array
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> Byte
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> IOException
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> InetAddress
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> Predef
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> PrintStream
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> Socket
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> String
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> Unit
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> address
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> address$lzy
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> apply
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> close
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> e
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> findIpAdd
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> flush
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> getByAddress
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> getHostAddress
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> getLocalHost
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> getOutputStream
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> iOSConnector
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> ia
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> io
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> java
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> localIpAddress
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> localhost
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> net
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> out
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> print
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> printStackTrace
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> scala
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> socket
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> string
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> toByte
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> <init>
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> AnyRef
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> Array
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> ClassTag
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> InetAddress
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> MainStreaming
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> Predef
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> Recommendation
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> Seconds
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> SparkConf
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> StreamingContext
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> String
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> System
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> Unit
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> apache
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> apply
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> awaitTermination
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> collect
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> command
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> contains
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> context
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> foreachRDD
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> getByName
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> getHostName
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> ip
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> java
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> lang
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> lines
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> map
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> materializeClassTag
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> net
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> org
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> package
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> print
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> rdd
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> recommend
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> refArrayOps
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> scala
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> set
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> setAppName
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> setMaster
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> setProperty
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> socketTextStream
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> spark
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> sparkConf
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> sparkContext
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> ssc
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> start
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> streaming
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> toUpperCase
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> x
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> y
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> $conforms
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> %
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> &&
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> *
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> +
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> -
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> /
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> :+
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> <
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> <init>
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> >=
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> ALS
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> ALSmodel
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> AnyRef
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> ClassTag
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Codec
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Double
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> File
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Files
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Http
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> HttpOptions
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Int
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Json
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> List
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Long
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> MatrixFactorizationModel
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Nil
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> None
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Option
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Ordering
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Paths
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Predef
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> RDD
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Rating
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Recommendation
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Seq
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Source
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> SparkContext
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Tuple2
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> Unit
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> _1
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> _2
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> apache
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> apply
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> asInt
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> asString
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> augmentString
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> baselineRmse
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> bestLambda
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> bestModel
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> bestNumIter
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> bestRank
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> bestValidationRmse
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> cache
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> canBuildFrom
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> candidates
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> collect
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> collection
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> computeRmse
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> contains
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> count
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> data
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> distinct
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> doubleRDDToDoubleRDDFunctions
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> exists
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> fallbackSystemCodec
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> fields
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> file
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> filter
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> foreach
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> format
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> fromFile
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> fromURL
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> get
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> getLines
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> header
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> http
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> i
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> immutable
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> improvement
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> intWrapper
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> io
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> java
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> join
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> jsonArray
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> jsonHeaders
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> jsvalue
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> keys
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> lambda
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> lambdas
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> libs
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> line
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> lines
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> load
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> loadRatings
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> map
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> materializeClassTag
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> math
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> mean
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> meanRating
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> mkString
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> mllib
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> model
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> movieLensHomeDir
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> movies
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> myRatedMovieIds
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> myRatings
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> myRatingsRDD
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> n
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> nio
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> numIter
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> numIters
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> numMovies
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> numPartitions
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> numRatings
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> numTest
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> numTraining
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> numUsers
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> numValidation
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> option
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> org
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> package
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> parallelize
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> parse
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> play
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> postData
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> predict
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> predictions
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> predictionsAndRatings
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> println
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> product
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> qual$1
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> qual$2
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> r
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> rank
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> ranks
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> rating
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> ratings
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> ratingsArray
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> rdd
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> rddToPairRDDFunctions
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> readTimeout
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> recommendation
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> recommendations
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> reduce
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> refArrayOps
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> repartition
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> result
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> sc
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> scala
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> scalaj
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> size
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> sortBy
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> spark
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> split
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> sqrt
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> take
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> test
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> testRmse
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> textFile
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> toDouble
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> toInt
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> toLong
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> toMap
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> toSeq
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> toSet
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> toString
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> train
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> training
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> unary_!
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> unary_-
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> union
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> until
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> url
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> user
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> validation
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> validationRmse
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> values
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> x
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> x$10
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> x$11
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> x$12
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> x$13
+product stamps:
+32 items
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\iOSConnector$.class -> lastModified(1457565474072)
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\iOSConnector.class -> lastModified(1457565474041)
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\MainStreaming$$anonfun$1.class -> lastModified(1457565473613)
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\MainStreaming$$anonfun$main$1.class -> lastModified(1457565473629)
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\MainStreaming$.class -> lastModified(1457565473578)
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\MainStreaming.class -> lastModified(1457565473380)
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$1.class -> lastModified(1457565473713)
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$10.class -> lastModified(1457565473725)
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$11.class -> lastModified(1457565473733)
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$12.class -> lastModified(1457565473743)
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$13.class -> lastModified(1457565473757)
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$14.class -> lastModified(1457565473771)
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$15.class -> lastModified(1457565473781)
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$16.class -> lastModified(1457565473791)
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$17.class -> lastModified(1457565473802)
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$2.class -> lastModified(1457565473814)
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$3.class -> lastModified(1457565473824)
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$4.class -> lastModified(1457565473832)
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$5.class -> lastModified(1457565473841)
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$6.class -> lastModified(1457565473852)
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$7.class -> lastModified(1457565473861)
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$8.class -> lastModified(1457565473870)
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$9.class -> lastModified(1457565473882)
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$computeRmse$1.class -> lastModified(1457565473949)
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$computeRmse$2.class -> lastModified(1457565473963)
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$loadRatings$1.class -> lastModified(1457565473973)
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$recommend$1$$anonfun$apply$mcVI$sp$1$$anonfun$apply$mcVD$sp$1.class -> lastModified(1457565474016)
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$recommend$1$$anonfun$apply$mcVI$sp$1.class -> lastModified(1457565473997)
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$recommend$1.class -> lastModified(1457565473986)
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$$anonfun$recommend$2.class -> lastModified(1457565474033)
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation$.class -> lastModified(1457565473700)
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\target\scala-2.11\classes\Recommendation.class -> lastModified(1457565473647)
+source stamps:
+3 items
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> hash(1017d5f384c7386023cd5d2969d7a226f1fcf491)
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> hash(83f27cf41459f93ddcb1aa714ff9261ead99ba31)
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> hash(1eb1fef391f21bb31bc36c17d6e987bd05a8616b)
+binary stamps:
+8 items
+C:\Program Files\Java\jdk1.8.0_60\jre\lib\rt.jar -> lastModified(1442692998482)
+C:\Users\sindhu\.ivy2\cache\com.fasterxml.jackson.core\jackson-databind\bundles\jackson-databind-2.4.4.jar -> lastModified(1416882541000)
+C:\Users\sindhu\.ivy2\cache\com.typesafe.play\play-json_2.10\jars\play-json_2.10-2.2.1.jar -> lastModified(1429633341000)
+C:\Users\sindhu\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-1.6.0.jar -> lastModified(1450755559000)
+C:\Users\sindhu\.ivy2\cache\org.apache.spark\spark-mllib_2.11\jars\spark-mllib_2.11-1.6.0.jar -> lastModified(1450755233000)
+C:\Users\sindhu\.ivy2\cache\org.apache.spark\spark-streaming_2.11\jars\spark-streaming_2.11-1.6.0.jar -> lastModified(1450755207000)
+C:\Users\sindhu\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> lastModified(1438617791000)
+C:\Users\sindhu\.ivy2\cache\org.scalaj\scalaj-http_2.11\jars\scalaj-http_2.11-1.1.5.jar -> lastModified(1435778820000)
+class names:
+8 items
+C:\Program Files\Java\jdk1.8.0_60\jre\lib\rt.jar -> java.lang.Object
+C:\Users\sindhu\.ivy2\cache\com.fasterxml.jackson.core\jackson-databind\bundles\jackson-databind-2.4.4.jar -> com.fasterxml.jackson.databind.JsonNode
+C:\Users\sindhu\.ivy2\cache\com.typesafe.play\play-json_2.10\jars\play-json_2.10-2.2.1.jar -> play.libs.Json
+C:\Users\sindhu\.ivy2\cache\org.apache.spark\spark-core_2.11\jars\spark-core_2.11-1.6.0.jar -> org.apache.spark.SparkContext
+C:\Users\sindhu\.ivy2\cache\org.apache.spark\spark-mllib_2.11\jars\spark-mllib_2.11-1.6.0.jar -> org.apache.spark.mllib.recommendation.ALS$
+C:\Users\sindhu\.ivy2\cache\org.apache.spark\spark-streaming_2.11\jars\spark-streaming_2.11-1.6.0.jar -> org.apache.spark.streaming.Seconds
+C:\Users\sindhu\.ivy2\cache\org.scala-lang\scala-library\jars\scala-library-2.11.7.jar -> scala.Unit
+C:\Users\sindhu\.ivy2\cache\org.scalaj\scalaj-http_2.11\jars\scalaj-http_2.11-1.1.5.jar -> scalaj.http.HttpOptions
+internal apis:
+3 items
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBecLH4AHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFnNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cAa+S6h0AAZub3RpZnlzcQB+AAwRxyBZdAAEd2FpdHNxAH4ADB3Dq910AA0kYXNJbnN0YW5jZU9mc3EAfgAMkjC+93QABmVxdWFsc3NxAH4ADCoTXBN0AAxhc0luc3RhbmNlT2ZzcQB+AAw5srNCdAAMc3luY2hyb25pemVkc3EAfgAMKxhUoXQACWZpbmRJcEFkZHNxAH4ADM2CkSp0AA0kaXNJbnN0YW5jZU9mc3EAfgAM3rBBhXQACW5vdGlmeUFsbHNxAH4ADEXnOxB0AAxpc0luc3RhbmNlT2ZzcQB+AAwktkycdAASc2VuZENvbW1hbmRUb1JvYm90c3EAfgAMS2MB23QADGlPU0Nvbm5lY3RvcnNxAH4ADCBErBd0AAI9PXNxAH4ADOYlTNN0AAVjbG9uZXNxAH4ADIkX1aR0AAh0b1N0cmluZ3NxAH4ADJVXtup0AAIhPXNxAH4ADNTPITx0AAhnZXRDbGFzc3NxAH4ADPvpkbZ0AAJuZXNxAH4ADL9IAHd0AAJlcXNxAH4ADE5Idyx0AAIjI3NxAH4ADLmhkI10AAhmaW5hbGl6ZXNxAH4ADHHFjuR0AAhoYXNoQ29kZXNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAAFzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+AEN4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXEAfgANeHBzcgAQeHNidGkuYXBpLlB1YmxpY7pYPa5sLWBCAgAAeHIAEHhzYnRpLmFwaS5BY2Nlc3PdYpr4HWMxSAIAAHhwdXIAF1tMeHNidGkuYXBpLkFubm90YXRpb24765frGRD2jUgCAAB4cAAAAABzcgATeHNidGkuYXBpLk1vZGlmaWVyc8cREyFpnNwkAgABQgAFZmxhZ3N4cABxAH4AJXVyABpbTHhzYnRpLmFwaS5UeXBlUGFyYW1ldGVyO9ltJg8onfK2AgAAeHAAAAAAfnIAGHhzYnRpLmFwaS5EZWZpbml0aW9uVHlwZQAAAAAAAAAAEgAAeHIADmphdmEubGFuZy5FbnVtAAAAAAAAAAASAAB4cHQABk1vZHVsZXVyABNbTGphdmEubGFuZy5TdHJpbmc7rdJW5+kde0cCAAB4cAAAAABzcgATeHNidGkuU2FmZUxhenkkSW1wbFACLpOXl0A/AgADWgAIYml0bWFwJDBMAAJfdHQAEkxqYXZhL2xhbmcvT2JqZWN0O0wABGV2YWx0ABFMc2NhbGEvRnVuY3Rpb24wO3hyABZ4c2J0aS5hcGkuQWJzdHJhY3RMYXp503e1AV+756ACAAB4cABwc3IAIHhzYnRpLlNhZmVMYXp5JCRhbm9uZnVuJHN0cmljdCQxAAAAAAAAAAACAAFMAAd2YWx1ZSQxcQB+AFt4cHNyABN4c2J0aS5hcGkuRW1wdHlUeXBlvP2eRkk7iSQCAAB4cgAUeHNidGkuYXBpLlNpbXBsZVR5cGVyeGKIISO/QAIAAHhyAA54c2J0aS5hcGkuVHlwZT9q2SEWSarKAgAAeHBzcQB+AFoAcHNxAH4AX3NyABN4c2J0aS5hcGkuU3RydWN0dXJlqar5gJNv2AACAANMAAhkZWNsYXJlZHEAfgBDTAAJaW5oZXJpdGVkcQB+AENMAAdwYXJlbnRzcQB+AEN4cQB+AGNzcQB+AFoAcHNxAH4AX3VxAH4APgAAAABzcQB+AFoAcHNxAH4AX3VxAH4APgAAAABzcQB+AFoAcHNxAH4AX3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAACc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYnQABk9iamVjdHNyABN4c2J0aS5hcGkuU2luZ2xldG9u/Kdf+M9W5EYCAAFMAARwYXRodAAQTHhzYnRpL2FwaS9QYXRoO3hxAH4AYnNyAA54c2J0aS5hcGkuUGF0aJs9XAjOpSeEAgABWwAKY29tcG9uZW50c3QAGltMeHNidGkvYXBpL1BhdGhDb21wb25lbnQ7eHB1cgAaW0x4c2J0aS5hcGkuUGF0aENvbXBvbmVudDtD2gl0LWcWdAIAAHhwAAAAA3NyAAx4c2J0aS5hcGkuSWSYMmyLN1PEQAIAAUwAAmlkcQB+AA14cgAXeHNidGkuYXBpLlBhdGhDb21wb25lbnRfmiJbLoafvAIAAHhwdAAEamF2YXNxAH4Af3QABGxhbmdzcgAOeHNidGkuYXBpLlRoaXPbCe2mzFpAXAIAAHhxAH4AgHNxAH4Ac3QAA0FueXNxAH4Ad3NxAH4AenVxAH4AfQAAAAJzcQB+AH90AAVzY2FsYXEAfgCGdXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVNdq9gldXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAkEQ6XFVNS0NcQmlnRGF0YS1MZWVcTGFiX1R1dG9yaWFsc1xMQUJfN1xTcGFya01hY2hpbmVMZWFybmluZ1xBbmRyb2lkIHRvIFNwYXJrIChTdHJlYW1pbmcpXFNwYXJrU3RyZWFtaW5nUmVjb21tZW5kYXRpb25cdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFBAX1fOExzhgI81dKWnXoibx/PSR
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHCbWlPyAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAFXNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cHNWNlh0AAZub3RpZnlzcQB+AAxSBPUddAAEd2FpdHNxAH4ADGnjdil0AA0kYXNJbnN0YW5jZU9mc3EAfgAM9Lia13QABmVxdWFsc3NxAH4ADD55YMx0AAxhc0luc3RhbmNlT2ZzcQB+AAx3LEt/dAAMc3luY2hyb25pemVkc3EAfgAMATPTwXQADSRpc0luc3RhbmNlT2ZzcQB+AAyiCtBudAANTWFpblN0cmVhbWluZ3NxAH4ADJ2Zf+R0AARtYWluc3EAfgAM7iU6uHQACW5vdGlmeUFsbHNxAH4ADBC5nGJ0AAxpc0luc3RhbmNlT2ZzcQB+AAz8+J1NdAACPT1zcQB+AAwzumGQdAAFY2xvbmVzcQB+AAwROZjOdAAIdG9TdHJpbmdzcQB+AAzgvxQDdAACIT1zcQB+AAzYIBNkdAAIZ2V0Q2xhc3NzcQB+AAwvDp1BdAACbmVzcQB+AAwKQxkcdAACZXFzcQB+AAxbUbxzdAACIyNzcQB+AAyrOddidAAIZmluYWxpemVzcQB+AAxGePCrdAAIaGFzaENvZGVzcgATeHNidGkuYXBpLlNvdXJjZUFQSblep/kpIzikAgACWwALZGVmaW5pdGlvbnN0ABdbTHhzYnRpL2FwaS9EZWZpbml0aW9uO1sACHBhY2thZ2VzdAAUW0x4c2J0aS9hcGkvUGFja2FnZTt4cHVyABdbTHhzYnRpLmFwaS5EZWZpbml0aW9uO4jJXOe0414OAgAAeHAAAAABc3IAE3hzYnRpLmFwaS5DbGFzc0xpa2WDNByh37CXbAIABEwADmRlZmluaXRpb25UeXBldAAaTHhzYnRpL2FwaS9EZWZpbml0aW9uVHlwZTtbABBzYXZlZEFubm90YXRpb25zdAATW0xqYXZhL2xhbmcvU3RyaW5nO0wACHNlbGZUeXBldAAQTHhzYnRpL2FwaS9MYXp5O0wACXN0cnVjdHVyZXEAfgBBeHIAIXhzYnRpLmFwaS5QYXJhbWV0ZXJpemVkRGVmaW5pdGlvbvkRbrHVUDziAgABWwAOdHlwZVBhcmFtZXRlcnN0ABpbTHhzYnRpL2FwaS9UeXBlUGFyYW1ldGVyO3hyABR4c2J0aS5hcGkuRGVmaW5pdGlvbocqG+hxQuNGAgAETAAGYWNjZXNzdAASTHhzYnRpL2FwaS9BY2Nlc3M7WwALYW5ub3RhdGlvbnN0ABdbTHhzYnRpL2FwaS9Bbm5vdGF0aW9uO0wACW1vZGlmaWVyc3QAFUx4c2J0aS9hcGkvTW9kaWZpZXJzO0wABG5hbWVxAH4ADXhwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAcQB+AB11cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAAAc3IAE3hzYnRpLlNhZmVMYXp5JEltcGxQAi6Tl5dAPwIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMQAAAAAAAAAAAgABTAAHdmFsdWUkMXEAfgBZeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgBYAHBzcQB+AF1zcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AQUwACWluaGVyaXRlZHEAfgBBTAAHcGFyZW50c3EAfgBBeHEAfgBhc3EAfgBYAHBzcQB+AF11cQB+ADwAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+AEJxAH4AS3VxAH4ATAAAAABzcQB+AE4AcQB+AB91cQB+AFAAAAAAc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgANTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AYHQABFVuaXRzcgATeHNidGkuYXBpLlNpbmdsZXRvbvynX/jPVuRGAgABTAAEcGF0aHQAEEx4c2J0aS9hcGkvUGF0aDt4cQB+AGBzcgAOeHNidGkuYXBpLlBhdGibPVwIzqUnhAIAAVsACmNvbXBvbmVudHN0ABpbTHhzYnRpL2FwaS9QYXRoQ29tcG9uZW50O3hwdXIAGltMeHNidGkuYXBpLlBhdGhDb21wb25lbnQ7Q9oJdC1nFnQCAAB4cAAAAAJzcgAMeHNidGkuYXBpLklkmDJsizdTxEACAAFMAAJpZHEAfgANeHIAF3hzYnRpLmFwaS5QYXRoQ29tcG9uZW50X5oiWy6Gn7wCAAB4cHQABXNjYWxhc3IADnhzYnRpLmFwaS5UaGlz2wntpsxaQFwCAAB4cQB+AH51cgAaW0x4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdDv10zod8rNw7gIAAHhwAAAAAXNyABd4c2J0aS5hcGkuUGFyYW1ldGVyTGlzdNbFvBxkSXTjAgACWgAKaXNJbXBsaWNpdFsACnBhcmFtZXRlcnN0ABxbTHhzYnRpL2FwaS9NZXRob2RQYXJhbWV0ZXI7eHAAdXIAHFtMeHNidGkuYXBpLk1ldGhvZFBhcmFtZXRlcjvPuMVdpd21bQIAAHhwAAAAAXNyABl4c2J0aS5hcGkuTWV0aG9kUGFyYW1ldGVyH0WuF9NJsOoCAARaAApoYXNEZWZhdWx0TAAIbW9kaWZpZXJ0AB1MeHNidGkvYXBpL1BhcmFtZXRlck1vZGlmaWVyO0wABG5hbWVxAH4ADUwAA3RwZXEAfgBreHAAfnIAG3hzYnRpLmFwaS5QYXJhbWV0ZXJNb2RpZmllcgAAAAAAAAAAEgAAeHEAfgBTdAAFUGxhaW50AARhcmdzc3IAF3hzYnRpLmFwaS5QYXJhbWV0ZXJpemVkFmzuaQPJu38CAAJMAAhiYXNlVHlwZXEAfgByWwANdHlwZUFyZ3VtZW50c3QAEVtMeHNidGkvYXBpL1R5cGU7eHEAfgBgc3EAfgBxdAAFQXJyYXlxAH4Ad3VyABFbTHhzYnRpLmFwaS5UeXBlO3T/pVp7+elBAgAAeHAAAAABc3EAfgBxdAAGU3RyaW5nc3EAfgB1c3EAfgB4dXEAfgB7AAAAA3NxAH4AfXQABGphdmFzcQB+AH10AARsYW5ncQB+AIJzcQB+AFgAcHNxAH4AXXVxAH4APAAAAABzcQB+AFgAcHNxAH4AXXVxAH4AlgAAAAJzcQB+AHF0AAZPYmplY3RxAH4AmnNxAH4AcXQAA0FueXEAfgB3dXIAFFtMeHNidGkuYXBpLlBhY2thZ2U7WxMZN3CnJ6ECAAB4cAAAAABzcgAVeHNidGkuYXBpLkNvbXBpbGF0aW9u7frgw2rooEICAAJKAAlzdGFydFRpbWVbAAdvdXRwdXRzdAAaW0x4c2J0aS9hcGkvT3V0cHV0U2V0dGluZzt4cAAAAVNdq9gldXIAGltMeHNidGkuYXBpLk91dHB1dFNldHRpbmc7f2rC86eHpUICAAB4cAAAAAFzcgAXeHNidGkuYXBpLk91dHB1dFNldHRpbmd62ZpHdPsdewIAAkwAD291dHB1dERpcmVjdG9yeXEAfgANTAAPc291cmNlRGlyZWN0b3J5cQB+AA14cHQAkEQ6XFVNS0NcQmlnRGF0YS1MZWVcTGFiX1R1dG9yaWFsc1xMQUJfN1xTcGFya01hY2hpbmVMZWFybmluZ1xBbmRyb2lkIHRvIFNwYXJrIChTdHJlYW1pbmcpXFNwYXJrU3RyZWFtaW5nUmVjb21tZW5kYXRpb25cdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS91cgACW0Ks8xf4BghU4AIAAHhwAAAAFIPyfPQUWfk93LGqcU/5Jh6tmbox
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHAj3t5NAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAGHNyACB4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaFsO9SJ2OFfPAgACSQAEaGFzaEwABG5hbWV0ABJMamF2YS9sYW5nL1N0cmluZzt4cHmSztl0AAZub3RpZnlzcQB+AAwTzzkFdAAJcmVjb21tZW5kc3EAfgAMpe0qI3QABHdhaXRzcQB+AAwrLo+tdAAPcHVzaERhdGFUb01vbmdvc3EAfgAMFPnUEnQADSRhc0luc3RhbmNlT2ZzcQB+AAwjHXmOdAAGZXF1YWxzc3EAfgAMCCx7d3QADGFzSW5zdGFuY2VPZnNxAH4ADN8LE4d0AAxzeW5jaHJvbml6ZWRzcQB+AAxQO6WSdAANJGlzSW5zdGFuY2VPZnNxAH4ADLT/KoF0AA5SZWNvbW1lbmRhdGlvbnNxAH4ADHaXRmZ0AAlub3RpZnlBbGxzcQB+AAztqf9TdAAMaXNJbnN0YW5jZU9mc3EAfgAMVYDSOXQAAj09c3EAfgAM1ExtRXQABWNsb25lc3EAfgAMXyR3BXQAC2xvYWRSYXRpbmdzc3EAfgAMseIMGXQACHRvU3RyaW5nc3EAfgAMY1mEDnQAAiE9c3EAfgAMi7NNSXQACGdldENsYXNzc3EAfgAMI6Gkt3QAAm5lc3EAfgAMFWCvdHQAAmVxc3EAfgAMDPlPsHQAC2NvbXB1dGVSbXNlc3EAfgAMlny+3HQAAiMjc3EAfgAM/K4K/HQACGZpbmFsaXplc3EAfgAMGmBz7nQACGhhc2hDb2Rlc3IAE3hzYnRpLmFwaS5Tb3VyY2VBUEm5Xqf5KSM4pAIAAlsAC2RlZmluaXRpb25zdAAXW0x4c2J0aS9hcGkvRGVmaW5pdGlvbjtbAAhwYWNrYWdlc3QAFFtMeHNidGkvYXBpL1BhY2thZ2U7eHB1cgAXW0x4c2J0aS5hcGkuRGVmaW5pdGlvbjuIyVzntONeDgIAAHhwAAAAAXNyABN4c2J0aS5hcGkuQ2xhc3NMaWtlgzQcod+wl2wCAARMAA5kZWZpbml0aW9uVHlwZXQAGkx4c2J0aS9hcGkvRGVmaW5pdGlvblR5cGU7WwAQc2F2ZWRBbm5vdGF0aW9uc3QAE1tMamF2YS9sYW5nL1N0cmluZztMAAhzZWxmVHlwZXQAEEx4c2J0aS9hcGkvTGF6eTtMAAlzdHJ1Y3R1cmVxAH4AR3hyACF4c2J0aS5hcGkuUGFyYW1ldGVyaXplZERlZmluaXRpb275EW6x1VA84gIAAVsADnR5cGVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvVHlwZVBhcmFtZXRlcjt4cgAUeHNidGkuYXBpLkRlZmluaXRpb26HKhvocULjRgIABEwABmFjY2Vzc3QAEkx4c2J0aS9hcGkvQWNjZXNzO1sAC2Fubm90YXRpb25zdAAXW0x4c2J0aS9hcGkvQW5ub3RhdGlvbjtMAAltb2RpZmllcnN0ABVMeHNidGkvYXBpL01vZGlmaWVycztMAARuYW1lcQB+AA14cHNyABB4c2J0aS5hcGkuUHVibGljulg9rmwtYEICAAB4cgAQeHNidGkuYXBpLkFjY2Vzc91imvgdYzFIAgAAeHB1cgAXW0x4c2J0aS5hcGkuQW5ub3RhdGlvbjvrl+sZEPaNSAIAAHhwAAAAAHNyABN4c2J0aS5hcGkuTW9kaWZpZXJzxxETIWmc3CQCAAFCAAVmbGFnc3hwAHEAfgAhdXIAGltMeHNidGkuYXBpLlR5cGVQYXJhbWV0ZXI72W0mDyid8rYCAAB4cAAAAAB+cgAYeHNidGkuYXBpLkRlZmluaXRpb25UeXBlAAAAAAAAAAASAAB4cgAOamF2YS5sYW5nLkVudW0AAAAAAAAAABIAAHhwdAAGTW9kdWxldXIAE1tMamF2YS5sYW5nLlN0cmluZzut0lbn6R17RwIAAHhwAAAAAHNyABN4c2J0aS5TYWZlTGF6eSRJbXBsUAIuk5eXQD8CAANaAAhiaXRtYXAkMEwAAl90dAASTGphdmEvbGFuZy9PYmplY3Q7TAAEZXZhbHQAEUxzY2FsYS9GdW5jdGlvbjA7eHIAFnhzYnRpLmFwaS5BYnN0cmFjdExhennTd7UBX7vnoAIAAHhwAHBzcgAgeHNidGkuU2FmZUxhenkkJGFub25mdW4kc3RyaWN0JDEAAAAAAAAAAAIAAUwAB3ZhbHVlJDFxAH4AX3hwc3IAE3hzYnRpLmFwaS5FbXB0eVR5cGW8/Z5GSTuJJAIAAHhyABR4c2J0aS5hcGkuU2ltcGxlVHlwZXJ4YoghI79AAgAAeHIADnhzYnRpLmFwaS5UeXBlP2rZIRZJqsoCAAB4cHNxAH4AXgBwc3EAfgBjc3IAE3hzYnRpLmFwaS5TdHJ1Y3R1cmWpqvmAk2/YAAIAA0wACGRlY2xhcmVkcQB+AEdMAAlpbmhlcml0ZWRxAH4AR0wAB3BhcmVudHNxAH4AR3hxAH4AZ3NxAH4AXgBwc3EAfgBjdXEAfgBCAAAAAHNxAH4AXgBwc3EAfgBjdXEAfgBCAAAAAHNxAH4AXgBwc3EAfgBjdXIAEVtMeHNidGkuYXBpLlR5cGU7dP+lWnv56UECAAB4cAAAAAJzcgAUeHNidGkuYXBpLlByb2plY3Rpb27z0o1U6UWkLQIAAkwAAmlkcQB+AA1MAAZwcmVmaXh0ABZMeHNidGkvYXBpL1NpbXBsZVR5cGU7eHEAfgBmdAAGT2JqZWN0c3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgBmc3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAADc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4ADXhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AARqYXZhc3EAfgCDdAAEbGFuZ3NyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgCEc3EAfgB3dAADQW55c3EAfgB7c3EAfgB+dXEAfgCBAAAAAnNxAH4Ag3QABXNjYWxhcQB+AIp1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU12r2CV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+AA1MAA9zb3VyY2VEaXJlY3RvcnlxAH4ADXhwdACQRDpcVU1LQ1xCaWdEYXRhLUxlZVxMYWJfVHV0b3JpYWxzXExBQl83XFNwYXJrTWFjaGluZUxlYXJuaW5nXEFuZHJvaWQgdG8gU3BhcmsgKFN0cmVhbWluZylcU3BhcmtTdHJlYW1pbmdSZWNvbW1lbmRhdGlvblx0YXJnZXRcc2NhbGEtMi4xMVxjbGFzc2VzdAABL3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUHrH+85HyG7Mbw2wX1umHvQWoYWs=
+external apis:
+0 items
+source infos:
+3 items
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\iOSConnector.scala -> 
+AAAAAAAAAAA=
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\MainStreaming.scala -> 
+AAAAAAAAAAA=
+D:\UMKC\BigData-Lee\Lab_Tutorials\LAB_7\SparkMachineLearning\Android to Spark (Streaming)\SparkStreamingRecommendation\src\main\scala\Recommendation.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABU12r2CV1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQAkEQ6XFVNS0NcQmlnRGF0YS1MZWVcTGFiX1R1dG9yaWFsc1xMQUJfN1xTcGFya01hY2hpbmVMZWFybmluZ1xBbmRyb2lkIHRvIFNwYXJrIChTdHJlYW1pbmcpXFNwYXJrU3RyZWFtaW5nUmVjb21tZW5kYXRpb25cdGFyZ2V0XHNjYWxhLTIuMTFcY2xhc3Nlc3QAAS8=
